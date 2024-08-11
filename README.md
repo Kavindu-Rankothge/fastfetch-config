@@ -9,7 +9,6 @@ Holds my preset files and other configs for my fastfetch
 ```
 cp ~/.config/fastfetch/config.jsonc ~/.config/fastfetch/config-backup.jsonc
 mv presets/linux-small-retro.jsonc ~/.config/fastfetch/config.jsonc
-fastfetch
 ```
-![image](https://github.com/user-attachments/assets/ccf5c911-ffc0-4883-ad16-abb19bb6a89e)
+<img src="https://github.com/user-attachments/assets/ccf5c911-ffc0-4883-ad16-abb19bb6a89e" alt="image" width=30%/>
 
